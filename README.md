@@ -1,2 +1,4 @@
 # marnus-creator.github.io
-Marnus Portifolio Website
+Marnus' Portfolio Website
+
+URL: https://marnus-creator.github.io/
